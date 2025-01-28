@@ -1,4 +1,4 @@
-# Use official PHP image with PHP-FPM
+# Use  PHP image with PHP-FPM
 FROM php:8.2-fpm
 
 # Install system dependencies and PHP extensions
