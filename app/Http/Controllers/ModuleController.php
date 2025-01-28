@@ -70,6 +70,7 @@ class ModuleController extends Controller
                 justify-content: center;
                 align-items: center;
                 box-sizing: border-box;
+                cursor: pointer;
             }
 
           
